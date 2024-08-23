@@ -5,7 +5,7 @@ public class Basic_Calculator {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        System.out.println("This is a demo Commit");
+        System.out.println("This is a Sub Branch Patch-1");
         System.out.printf("*****************************************\n");
         System.out.printf("\t\t\tBasic Calculator!");
         System.out.printf("\n*****************************************\n");
